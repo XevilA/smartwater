@@ -89,7 +89,7 @@ pip install PyQt6 pyserial
 bash
 
 ```
-python enhanced_irrigation_gui.py
+python main.py
 ```
 
 1.  **การเชื่อมต่อ:**
